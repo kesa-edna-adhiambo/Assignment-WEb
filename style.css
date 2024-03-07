@@ -1,0 +1,220 @@
+.photo1{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    margin-left: 200px;
+    
+   
+}
+
+.photo2{
+    display: flex;
+    width: 10px;
+    height: 20px;
+   
+}
+
+.photo3{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    margin-right: 500px;
+
+}
+
+.photo4{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    margin-right: 200px;
+}
+
+#photo5{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    margin-left: 50px;
+
+
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#BELOW{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#content8{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#ALL{
+    display: flex;
+    justify-content: space-between;
+}
+
+#container1{
+    display: flex;
+    width: 200px;
+    height: 250px;
+
+}
+
+#container2{
+    display: flex;
+    width: 200px;
+    height: 300px;
+
+
+}
+
+#content-all{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#container3{
+    display: flex;
+    width: 200px;
+    height: 300px;
+    margin-left: 100px;
+
+}
+
+#content3{
+    display: flex;
+    
+}
+
+#content4{
+    text-align: center;
+
+}
+
+.photo6{
+    text-align: center;
+
+}
+
+.pic{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    margin-right: 200px;
+}
+
+#final{
+    display: inline-flex;
+    
+    
+}
+
+.pic-content{
+    margin-right: 30px;
+
+}
+
+.pic2{
+    width: 20px;
+    height: 30px;
+    display:flex;
+    margin-right: 50px;
+    position: bottom;
+}
+
+#final2{
+    
+    margin-right: 200px;
+}
+
+#final3{
+    margin-right: 200px;
+
+}
+
+#final4{
+    margin-right: 200px;
+
+
+}
+
+.ff{
+    display: inline-block;
+    
+}
+
+.fff{
+    display: inline-block;
+}
+
+.ffff{
+    display: inline-block;
+}
+
+#PIC{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    margin-right: 200px;
+}
+
+#PIC2{
+    width: 30px;
+    height: 50px;
+    display:flex;
+    margin-right: 200px;
+}
+
+#PIC3{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    margin-right: 200px;
+
+}
+
+#pic-oneall{
+    display: inline-block;
+}
+
+body{
+    margin:auto;
+    font-size: large;
+    padding: 34px 32px;
+
+}
+
+h2{
+    color: red;
+
+}
+
+p{
+    color: rgb(88, 82, 82);
+}
+
+#team{
+    text-align: center;
+}
+
+#below{
+    text-align: center;
+}
+
+@media all and (max-width:300px)
+{body}
+
+   
+
+
+
+
